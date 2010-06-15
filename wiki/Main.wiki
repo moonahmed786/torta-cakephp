@@ -2,8 +2,9 @@
 
 = Introduction =
 
-Torta-cakePHP has been originally design as an Torrent tracker application that runs on top of the CakePHP framework. This simple application will allow cake users to easily incorporate a torrent tracking system to their current installation of CakePHP.
+Torta-cakePHP has been originally design as an *Torrent Tracker* application that runs on top of the [http://cakephp.org/ CakePHP] Framework. This simple application will allow cake developers to easily incorporate a torrent tracking system to their current installation of [http://cakephp.org/ CakePHP].
 
+Our first step in developing this app was to incorporate the basic "Torrent protocol" communication between the server and the clients. With this simple interface we allow the server to host/track torrent files on the web server, and also provide clients with the necessary information to download the files.
 
 = Details =
 
