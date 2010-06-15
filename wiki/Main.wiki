@@ -7,7 +7,7 @@ Torta-cakePHP has been originally design as an Torrent tracker application that 
 
 = Details =
 
-#Add your content here.  Format your content with:
-#  * Text in *bold* or _italic_
-#  * Headings, paragraphs, and lists
-#  * Automatic links to other wiki pages
+Add your content here.  Format your content with:
+  * Text in *bold* or _italic_
+  * Headings, paragraphs, and lists
+  * Automatic links to other wiki pages
