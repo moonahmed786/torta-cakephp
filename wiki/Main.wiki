@@ -8,7 +8,8 @@ Our first step in developing this app was to incorporate the basic "Torrent prot
 
 = Installation =
 
-The current version of *Torta* can only be installed in CakePHP 1.2.x. In the .zip file you will find the necessary files/folders. 
+The current version of *Torta* can only be installed in CakePHP 1.2.x. In the .zip file you will find the necessary files/folders.
+
 Please note we have an "upload" function on the app_controller.php file. DO *NOT* overwrite your original file. 
 
 == Database == 
